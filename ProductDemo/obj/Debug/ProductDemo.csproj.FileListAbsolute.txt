@@ -1,0 +1,10 @@
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\bin\Debug\ProductDemo.exe.config
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\bin\Debug\ProductDemo.exe
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\bin\Debug\ProductDemo.pdb
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.csproj.AssemblyReference.cache
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.DemoComp.resources
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.csproj.GenerateResource.cache
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.exe
+C:\Users\Shivansh.Patel\source\repos\ProductDemo\obj\Debug\ProductDemo.pdb
